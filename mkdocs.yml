@@ -1,7 +1,5 @@
 theme:
   name: material
-site_name: EduTools Docs
-theme:
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -19,3 +17,4 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+site_name: EduTools Docs

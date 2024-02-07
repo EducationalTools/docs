@@ -11,6 +11,8 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+  icon:
+    repo: fontawesome/brands/github 
 
   name: material
   palette:
@@ -34,3 +36,4 @@ site_name: EduTools Docs
 plugins:
   - search
 repo_url: https://github.com/EducationalTools/more
+repo_name: EducationalTools/more

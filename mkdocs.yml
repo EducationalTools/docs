@@ -1,4 +1,17 @@
 theme:
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
   name: material
   palette:
     - media: "(prefers-color-scheme)"
@@ -18,3 +31,6 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 site_name: EduTools Docs
+plugins:
+  - search
+repo_url: https://github.com/EducationalTools/more
